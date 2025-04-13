@@ -49,4 +49,5 @@ SETUVAR fish_pager_color_selected_completion:f8f8f2
 SETUVAR fish_pager_color_selected_description:6272a4
 SETUVAR fish_pager_color_selected_prefix:8be9fd
 SETUVAR fish_prompt_pwd_dir_length:0
-SETUVAR fish_user_paths:/Users/phakel/\x2ejuliaup/bin\x1e/Users/phakel/\x2ecargo/bin
+SETUVAR fish_user_paths:/Users/phakel/\x2elocal/bin\x1e/Users/phakel/\x2edotnet\x1e/Users/phakel/\x2ejuliaup/bin\x1e/Users/phakel/\x2ecargo/bin
+SETUVAR nvm_default_version:22\x2e14\x2e0
